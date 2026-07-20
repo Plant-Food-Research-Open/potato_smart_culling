@@ -1,0 +1,9 @@
+Sample,Group,type,Include
+Sel1_ind01,1,Selected,yes
+Sel1_ind02,1,Selected,yes
+Raw1_pool01,1,Raw,yes
+Raw1_pool02,1,Raw,yes
+Sel2_ind01,2,Selected,yes
+Sel2_ind02,2,Selected,yes
+Raw2_pool01,2,Raw,yes
+Raw2_pool02,2,Raw,yes
